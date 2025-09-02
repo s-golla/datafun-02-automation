@@ -42,9 +42,26 @@ The `requirements.txt` file contains detailed instructions and a curated list of
 
 Uncomment or add packages as needed for your project.
 
+## Commands to Run Python Scripts
+
+Remember to activate your .venv (and install packages if they haven't been installed yet) before running files.
+
+TODO: Change these to reflect your Python file names and remove this TODO.
+
+```shell
+py utils_sgolla.py
+py sgolla_project_setup.py
+```
+
+## Commands to Git add-commit-push
+
+```shell
+git add .
+git commit -m "custom message"
+git push -u origin main
+```
+
 ## Tips
 - Always activate your virtual environment before working on the project.
 - Use VS Code's Python extension and select the `.venv` interpreter for best results.
 - For Jupyter notebooks, select the `.venv` kernel.
-
-

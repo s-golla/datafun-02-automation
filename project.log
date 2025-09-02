@@ -1,0 +1,83 @@
+2025-09-02 08:30:25 | INFO | utils_sgolla:47 | Logger loaded.
+2025-09-02 08:30:25 | INFO | __main__:40 | Logger loaded.
+2025-09-02 08:30:25.348 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-02 08:30:25 | INFO | __main__:200 | #####################################
+2025-09-02 08:30:25.348 | INFO     | __main__:main:200 - #####################################
+2025-09-02 08:30:25 | INFO | __main__:201 | # Starting execution of main()
+2025-09-02 08:30:25.348 | INFO     | __main__:main:201 - # Starting execution of main()
+2025-09-02 08:30:25 | INFO | __main__:202 | #####################################
+
+2025-09-02 08:30:25.349 | INFO     | __main__:main:202 - #####################################
+
+2025-09-02 08:30:25 | INFO | __main__:205 | Byline: 
+**********************************************************
+Sgolla Analytics — Project Header
+**********************************************************
+Author:                     Saratchandra Golla
+Motto:                      Clear. Useful. On time. Learn.
+Location:                   O'Fallon, Missouri
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Hiring?:                    False
+Number of Employees:        25
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Office Locations:           ['St. Louis, MO', 'Chicago, IL', 'New York, NY']
+Count of Locations:         3
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+    Standard Deviation:    0.16
+**********************************************************
+
+2025-09-02 08:30:25.349 | INFO     | __main__:main:205 - Byline: 
+**********************************************************
+Sgolla Analytics — Project Header
+**********************************************************
+Author:                     Saratchandra Golla
+Motto:                      Clear. Useful. On time. Learn.
+Location:                   O'Fallon, Missouri
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Hiring?:                    False
+Number of Employees:        25
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Office Locations:           ['St. Louis, MO', 'Chicago, IL', 'New York, NY']
+Count of Locations:         3
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+    Standard Deviation:    0.16
+**********************************************************
+
+2025-09-02 08:30:25 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-02 08:30:25.351 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-02 08:30:25 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-02 08:30:25.351 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-02 08:30:25 | INFO | __main__:108 | FUNCTION: create_folders_from_list()
+2025-09-02 08:30:25.352 | INFO     | __main__:create_folders_from_list:108 - FUNCTION: create_folders_from_list()
+2025-09-02 08:30:25 | INFO | __main__:109 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-02 08:30:25.352 | INFO     | __main__:create_folders_from_list:109 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-02 08:30:25 | INFO | __main__:137 | FUNCTION: create_prefixed_folders()
+2025-09-02 08:30:25.352 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:137 - FUNCTION: create_prefixed_folders()
+2025-09-02 08:30:25 | INFO | __main__:138 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-02 08:30:25.353 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-02 08:30:25 | INFO | __main__:160 | FUNCTION: create_folders_periodically()
+2025-09-02 08:30:25.353 | INFO     | __main__:create_folders_periodically:160 - FUNCTION: create_folders_periodically()
+2025-09-02 08:30:25 | INFO | __main__:161 | PARAMETER: duration_seconds = 5
+2025-09-02 08:30:25.353 | INFO     | __main__:create_folders_periodically:161 - PARAMETER: duration_seconds = 5
+2025-09-02 08:30:25 | INFO | __main__:188 | FUNCTION: create_standardized_folders()
+2025-09-02 08:30:25.353 | INFO     | __main__:create_standardized_folders:188 - FUNCTION: create_standardized_folders()
+2025-09-02 08:30:25 | INFO | __main__:189 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-02 08:30:25.354 | INFO     | __main__:create_standardized_folders:189 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-02 08:30:25 | INFO | __main__:226 | 
+#####################################
+2025-09-02 08:30:25.355 | INFO     | __main__:main:226 - 
+#####################################
+2025-09-02 08:30:25 | INFO | __main__:227 | # Completed execution of main()
+2025-09-02 08:30:25.355 | INFO     | __main__:main:227 - # Completed execution of main()
+2025-09-02 08:30:25 | INFO | __main__:228 | #####################################
+2025-09-02 08:30:25.355 | INFO     | __main__:main:228 - #####################################
