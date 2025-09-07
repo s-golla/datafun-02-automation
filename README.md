@@ -15,10 +15,10 @@ cd datafun-02-automation
 
 ### 2. Create and Activate a Virtual Environment
 ```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
+python -m venv venv
+.\venv\Scripts\Activate.ps1
 ```
-You should see `(.venv)` in your terminal prompt when activated.
+You should see `(venv)` in your terminal prompt when activated.
 
 ### 3. Install Dependencies
 Edit `requirements.txt` as needed, then install:
@@ -44,14 +44,18 @@ Uncomment or add packages as needed for your project.
 
 ## Commands to Run Python Scripts
 
-Remember to activate your .venv (and install packages if they haven't been installed yet) before running files.
 
-TODO: Change these to reflect your Python file names and remove this TODO.
+Remember to activate your venv (and install packages if they haven't been installed yet) before running files.
 
 ```shell
-py utils_sgolla.py
-py sgolla_project_setup.py
+python utils_sgolla.py
+python sgolla_project_setup.py
 ```
+## Tracking Directories in Git
+
+Git does not track empty directories. To ensure new directories are tracked, a `.gitkeep` file has been added to each directory.
+
+If you add new directories and want them tracked by git, add a `.gitkeep` file inside them.
 
 ## Commands to Git add-commit-push
 
