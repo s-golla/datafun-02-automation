@@ -81,3 +81,213 @@ Mean Satisfaction Score:    4.80
 2025-09-02 08:30:25.355 | INFO     | __main__:main:227 - # Completed execution of main()
 2025-09-02 08:30:25 | INFO | __main__:228 | #####################################
 2025-09-02 08:30:25.355 | INFO     | __main__:main:228 - #####################################
+2025-09-07 23:41:05 | INFO | utils_sgolla:47 | Logger loaded.
+2025-09-07 23:41:05 | INFO | __main__:40 | Logger loaded.
+2025-09-07 23:41:05.872 | INFO     | __main__:<module>:40 - Logger loaded.
+2025-09-07 23:41:05 | INFO | __main__:200 | #####################################
+2025-09-07 23:41:05.873 | INFO     | __main__:main:200 - #####################################
+2025-09-07 23:41:05 | INFO | __main__:201 | # Starting execution of main()
+2025-09-07 23:41:05.873 | INFO     | __main__:main:201 - # Starting execution of main()
+2025-09-07 23:41:05 | INFO | __main__:202 | #####################################
+
+2025-09-07 23:41:05.873 | INFO     | __main__:main:202 - #####################################
+
+2025-09-07 23:41:05 | INFO | __main__:205 | Byline: 
+**********************************************************
+Sgolla Analytics — Project Header
+**********************************************************
+Author:                     Saratchandra Golla
+Motto:                      Clear. Useful. On time. Learn.
+Location:                   O'Fallon, Missouri
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Hiring?:                    False
+Number of Employees:        25
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Office Locations:           ['St. Louis, MO', 'Chicago, IL', 'New York, NY']
+Count of Locations:         3
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+    Standard Deviation:    0.16
+**********************************************************
+
+2025-09-07 23:41:05.873 | INFO     | __main__:main:205 - Byline: 
+**********************************************************
+Sgolla Analytics — Project Header
+**********************************************************
+Author:                     Saratchandra Golla
+Motto:                      Clear. Useful. On time. Learn.
+Location:                   O'Fallon, Missouri
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Hiring?:                    False
+Number of Employees:        25
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Office Locations:           ['St. Louis, MO', 'Chicago, IL', 'New York, NY']
+Count of Locations:         3
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+    Standard Deviation:    0.16
+**********************************************************
+
+2025-09-07 23:41:05 | INFO | __main__:76 | FUNCTION: create_folders_for_range()
+2025-09-07 23:41:05.874 | INFO     | __main__:create_folders_for_range:76 - FUNCTION: create_folders_for_range()
+2025-09-07 23:41:05 | INFO | __main__:77 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-07 23:41:05.874 | INFO     | __main__:create_folders_for_range:77 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-07 23:41:05 | INFO | __main__:108 | FUNCTION: create_folders_from_list()
+2025-09-07 23:41:05.874 | INFO     | __main__:create_folders_from_list:108 - FUNCTION: create_folders_from_list()
+2025-09-07 23:41:05 | INFO | __main__:109 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-07 23:41:05.874 | INFO     | __main__:create_folders_from_list:109 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-07 23:41:05 | INFO | __main__:137 | FUNCTION: create_prefixed_folders()
+2025-09-07 23:41:05.874 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:137 - FUNCTION: create_prefixed_folders()
+2025-09-07 23:41:05 | INFO | __main__:138 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-07 23:41:05.875 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-07 23:41:05 | INFO | __main__:160 | FUNCTION: create_folders_periodically()
+2025-09-07 23:41:05.875 | INFO     | __main__:create_folders_periodically:160 - FUNCTION: create_folders_periodically()
+2025-09-07 23:41:05 | INFO | __main__:161 | PARAMETER: duration_seconds = 5
+2025-09-07 23:41:05.875 | INFO     | __main__:create_folders_periodically:161 - PARAMETER: duration_seconds = 5
+2025-09-07 23:41:05 | INFO | __main__:188 | FUNCTION: create_standardized_folders()
+2025-09-07 23:41:05.876 | INFO     | __main__:create_standardized_folders:188 - FUNCTION: create_standardized_folders()
+2025-09-07 23:41:05 | INFO | __main__:189 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-07 23:41:05.876 | INFO     | __main__:create_standardized_folders:189 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-07 23:41:05 | INFO | __main__:226 | 
+#####################################
+2025-09-07 23:41:05.876 | INFO     | __main__:main:226 - 
+#####################################
+2025-09-07 23:41:05 | INFO | __main__:227 | # Completed execution of main()
+2025-09-07 23:41:05.876 | INFO     | __main__:main:227 - # Completed execution of main()
+2025-09-07 23:41:05 | INFO | __main__:228 | #####################################
+2025-09-07 23:41:05.877 | INFO     | __main__:main:228 - #####################################
+2025-09-07 23:42:58 | INFO | utils_sgolla:47 | Logger loaded.
+2025-09-07 23:42:58 | INFO | __main__:36 | Logger loaded.
+2025-09-07 23:42:58.651 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-09-07 23:42:58 | INFO | __main__:205 | #####################################
+2025-09-07 23:42:58.652 | INFO     | __main__:main:205 - #####################################
+2025-09-07 23:42:58 | INFO | __main__:206 | # Starting execution of main()
+2025-09-07 23:42:58.652 | INFO     | __main__:main:206 - # Starting execution of main()
+2025-09-07 23:42:58 | INFO | __main__:207 | #####################################
+
+2025-09-07 23:42:58.652 | INFO     | __main__:main:207 - #####################################
+
+2025-09-07 23:42:58 | INFO | __main__:209 | Byline: 
+**********************************************************
+Sgolla Analytics — Project Header
+**********************************************************
+Author:                     Saratchandra Golla
+Motto:                      Clear. Useful. On time. Learn.
+Location:                   O'Fallon, Missouri
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Hiring?:                    False
+Number of Employees:        25
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Office Locations:           ['St. Louis, MO', 'Chicago, IL', 'New York, NY']
+Count of Locations:         3
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+    Standard Deviation:    0.16
+**********************************************************
+
+2025-09-07 23:42:58.652 | INFO     | __main__:main:209 - Byline: 
+**********************************************************
+Sgolla Analytics — Project Header
+**********************************************************
+Author:                     Saratchandra Golla
+Motto:                      Clear. Useful. On time. Learn.
+Location:                   O'Fallon, Missouri
+Years Active:               5
+Accepting New Clients?:     True
+Remote Workshops?:          True
+Hiring?:                    False
+Number of Employees:        25
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Office Locations:           ['St. Louis, MO', 'Chicago, IL', 'New York, NY']
+Count of Locations:         3
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+    Standard Deviation:    0.16
+**********************************************************
+
+2025-09-07 23:42:58 | INFO | __main__:72 | FUNCTION: create_folders_for_range()
+2025-09-07 23:42:58.653 | INFO     | __main__:create_folders_for_range:72 - FUNCTION: create_folders_for_range()
+2025-09-07 23:42:58 | INFO | __main__:73 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-07 23:42:58.653 | INFO     | __main__:create_folders_for_range:73 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-07 23:42:58 | INFO | __main__:78 | Created folder: C:\projects\datafun-02-automation\2020
+2025-09-07 23:42:58.653 | INFO     | __main__:create_folders_for_range:78 - Created folder: C:\projects\datafun-02-automation\2020
+2025-09-07 23:42:58 | INFO | __main__:78 | Created folder: C:\projects\datafun-02-automation\2021
+2025-09-07 23:42:58.654 | INFO     | __main__:create_folders_for_range:78 - Created folder: C:\projects\datafun-02-automation\2021
+2025-09-07 23:42:58 | INFO | __main__:78 | Created folder: C:\projects\datafun-02-automation\2022
+2025-09-07 23:42:58.654 | INFO     | __main__:create_folders_for_range:78 - Created folder: C:\projects\datafun-02-automation\2022
+2025-09-07 23:42:58 | INFO | __main__:78 | Created folder: C:\projects\datafun-02-automation\2023
+2025-09-07 23:42:58.655 | INFO     | __main__:create_folders_for_range:78 - Created folder: C:\projects\datafun-02-automation\2023
+2025-09-07 23:42:58 | INFO | __main__:99 | FUNCTION: create_folders_from_list()
+2025-09-07 23:42:58.655 | INFO     | __main__:create_folders_from_list:99 - FUNCTION: create_folders_from_list()
+2025-09-07 23:42:58 | INFO | __main__:100 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-07 23:42:58.655 | INFO     | __main__:create_folders_from_list:100 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-07 23:42:58 | INFO | __main__:106 | Created folder: C:\projects\datafun-02-automation\data-csv
+2025-09-07 23:42:58.656 | INFO     | __main__:create_folders_from_list:106 - Created folder: C:\projects\datafun-02-automation\data-csv
+2025-09-07 23:42:58 | INFO | __main__:106 | Created folder: C:\projects\datafun-02-automation\data-excel
+2025-09-07 23:42:58.656 | INFO     | __main__:create_folders_from_list:106 - Created folder: C:\projects\datafun-02-automation\data-excel
+2025-09-07 23:42:58 | INFO | __main__:106 | Created folder: C:\projects\datafun-02-automation\data-json
+2025-09-07 23:42:58.657 | INFO     | __main__:create_folders_from_list:106 - Created folder: C:\projects\datafun-02-automation\data-json
+2025-09-07 23:42:58 | INFO | __main__:128 | FUNCTION: create_prefixed_folders()
+2025-09-07 23:42:58.657 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:128 - FUNCTION: create_prefixed_folders()
+2025-09-07 23:42:58 | INFO | __main__:129 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-07 23:42:58.657 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:129 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-07 23:42:58 | INFO | __main__:135 | Created folder: C:\projects\datafun-02-automation\output-csv
+2025-09-07 23:42:58.658 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\projects\datafun-02-automation\output-csv
+2025-09-07 23:42:58 | INFO | __main__:135 | Created folder: C:\projects\datafun-02-automation\output-excel
+2025-09-07 23:42:58.658 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\projects\datafun-02-automation\output-excel
+2025-09-07 23:42:58 | INFO | __main__:135 | Created folder: C:\projects\datafun-02-automation\output-json
+2025-09-07 23:42:58.659 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - Created folder: C:\projects\datafun-02-automation\output-json
+2025-09-07 23:42:58 | INFO | __main__:153 | FUNCTION: create_folders_periodically()
+2025-09-07 23:42:58.659 | INFO     | __main__:create_folders_periodically:153 - FUNCTION: create_folders_periodically()
+2025-09-07 23:42:58 | INFO | __main__:154 | PARAMETER: duration_seconds = 5
+2025-09-07 23:42:58.659 | INFO     | __main__:create_folders_periodically:154 - PARAMETER: duration_seconds = 5
+2025-09-07 23:42:58 | INFO | __main__:162 | Created folder: C:\projects\datafun-02-automation\periodic-folder-1
+2025-09-07 23:42:58.660 | INFO     | __main__:create_folders_periodically:162 - Created folder: C:\projects\datafun-02-automation\periodic-folder-1
+2025-09-07 23:42:58 | INFO | __main__:164 | Waiting 5 seconds before next folder...
+2025-09-07 23:42:58.660 | INFO     | __main__:create_folders_periodically:164 - Waiting 5 seconds before next folder...
+2025-09-07 23:43:03 | INFO | __main__:162 | Created folder: C:\projects\datafun-02-automation\periodic-folder-2
+2025-09-07 23:43:03.662 | INFO     | __main__:create_folders_periodically:162 - Created folder: C:\projects\datafun-02-automation\periodic-folder-2
+2025-09-07 23:43:03 | INFO | __main__:164 | Waiting 5 seconds before next folder...
+2025-09-07 23:43:03.664 | INFO     | __main__:create_folders_periodically:164 - Waiting 5 seconds before next folder...
+2025-09-07 23:43:08 | INFO | __main__:162 | Created folder: C:\projects\datafun-02-automation\periodic-folder-3
+2025-09-07 23:43:08.666 | INFO     | __main__:create_folders_periodically:162 - Created folder: C:\projects\datafun-02-automation\periodic-folder-3
+2025-09-07 23:43:08 | INFO | __main__:185 | FUNCTION: create_standardized_folders()
+2025-09-07 23:43:08.667 | INFO     | __main__:create_standardized_folders:185 - FUNCTION: create_standardized_folders()
+2025-09-07 23:43:08 | INFO | __main__:186 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-07 23:43:08.667 | INFO     | __main__:create_standardized_folders:186 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-07 23:43:08 | INFO | __main__:196 | Created standardized folder: C:\projects\datafun-02-automation\northamerica (original: North America)
+2025-09-07 23:43:08.678 | INFO     | __main__:create_standardized_folders:196 - Created standardized folder: C:\projects\datafun-02-automation\northamerica (original: North America)
+2025-09-07 23:43:08 | INFO | __main__:196 | Created standardized folder: C:\projects\datafun-02-automation\southamerica (original: South America)
+2025-09-07 23:43:08.679 | INFO     | __main__:create_standardized_folders:196 - Created standardized folder: C:\projects\datafun-02-automation\southamerica (original: South America)
+2025-09-07 23:43:08 | INFO | __main__:196 | Created standardized folder: C:\projects\datafun-02-automation\europe (original: Europe)
+2025-09-07 23:43:08.681 | INFO     | __main__:create_standardized_folders:196 - Created standardized folder: C:\projects\datafun-02-automation\europe (original: Europe)
+2025-09-07 23:43:08 | INFO | __main__:196 | Created standardized folder: C:\projects\datafun-02-automation\asia (original: Asia)
+2025-09-07 23:43:08.682 | INFO     | __main__:create_standardized_folders:196 - Created standardized folder: C:\projects\datafun-02-automation\asia (original: Asia)
+2025-09-07 23:43:08 | INFO | __main__:196 | Created standardized folder: C:\projects\datafun-02-automation\africa (original: Africa)
+2025-09-07 23:43:08.683 | INFO     | __main__:create_standardized_folders:196 - Created standardized folder: C:\projects\datafun-02-automation\africa (original: Africa)
+2025-09-07 23:43:08 | INFO | __main__:196 | Created standardized folder: C:\projects\datafun-02-automation\oceania (original: Oceania)
+2025-09-07 23:43:08.685 | INFO     | __main__:create_standardized_folders:196 - Created standardized folder: C:\projects\datafun-02-automation\oceania (original: Oceania)
+2025-09-07 23:43:08 | INFO | __main__:196 | Created standardized folder: C:\projects\datafun-02-automation\middleeast (original: Middle East)
+2025-09-07 23:43:08.686 | INFO     | __main__:create_standardized_folders:196 - Created standardized folder: C:\projects\datafun-02-automation\middleeast (original: Middle East)
+2025-09-07 23:43:08 | INFO | __main__:230 | 
+#####################################
+2025-09-07 23:43:08.686 | INFO     | __main__:main:230 - 
+#####################################
+2025-09-07 23:43:08 | INFO | __main__:231 | # Completed execution of main()
+2025-09-07 23:43:08.687 | INFO     | __main__:main:231 - # Completed execution of main()
+2025-09-07 23:43:08 | INFO | __main__:232 | #####################################
+2025-09-07 23:43:08.687 | INFO     | __main__:main:232 - #####################################
